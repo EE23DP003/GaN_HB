@@ -1,0 +1,4 @@
+Circuit: * C:\Users\DELL\My Drive\PE_IITDh\KiCad_Projects\RnD_6th_sem-main\RnD_6th_sem-main\LTspice_Models\Gate_Drive.asc
+
+WARNING: bad call of user defined function in: "fpar123+fpar124*[t+]fpar125*t**2"
+WARNING: bad call of user defined function in: "fpar123+fpar124*[t+]fpar125*t**2"
